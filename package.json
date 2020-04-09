@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "apollo-client": "^0.8.2",
+    "@apollo/client": "^3.0.0-beta.43",
     "axios": "^0.15.3",
     "babel-core": "^6.22.1",
     "babel-loader": "^6.2.10",
@@ -32,10 +32,8 @@
     "mongoose": "^4.7.8",
     "passport": "^0.3.2",
     "passport-local": "^1.0.0",
-    "react": "^15.4.2",
-    "react-apollo": "^0.10.0",
-    "react-dom": "^15.4.2",
-    "react-router": "^3.0.2",
+    "react": "^16.13.1",
+    "react-router-dom": "^5.1.2",
     "webpack": "^2.2.0",
     "webpack-dev-middleware": "^1.9.0"
   }
