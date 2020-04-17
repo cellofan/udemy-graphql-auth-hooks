@@ -1,2 +1,2 @@
-# auth-graphql-starter
-Starter project from a GraphQL course on Udemy.com - Section 3!
+# udemy-graphql-auth-hooks
+Updated, finished, hooks-version of Stephen Grider's udemy auth-graphql-starter application.
